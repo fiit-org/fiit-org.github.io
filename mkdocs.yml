@@ -28,10 +28,10 @@ plugins:
   - minify:
       minify_html: true
       minify_js: false
-      minify_css: true
+      minify_css: false
       htmlmin_opts:
           remove_comments: true
       #js_files:
       #    - assets/js/main.js
-      css_files:
-          - assets/css/style.css
+      #css_files:
+      #    - assets/css/style.css
