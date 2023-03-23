@@ -1,0 +1,3 @@
+pip install mkdocs-material
+pip3 install mkdocs-git-revision-date-localized-plugin
+pip install mkdocs-minify-plugin
