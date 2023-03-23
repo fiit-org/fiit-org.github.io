@@ -6,6 +6,12 @@ This is a list of software or links and a brief description of use case. It is n
 
 - Analytics
     - [Flow](https://www.flow-software.com/) - Analytics and modeling
+    - Apache Superset
+
+- Image Analysis
+    - Leela.ai
+    - Camlytics
+    - AWS Panorama
 
 - Stream Processing
     - [Node-RED](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -15,6 +21,11 @@ This is a list of software or links and a brief description of use case. It is n
     - [Waterstream](https://waterstream.io/) - MQTT Broker to Kafka
     - [HiveMQ](https://github.com/hivemq/hivemq-community-edition) - Java based broker
     - [EMQX](https://github.com/emqx/emqx) - Open source broker
+
+- DataOps
+    - Skkynet DataHub
+    - Highbyte Intelligence Hub
+    - Cognite Data Fusion
 
 - Platforms
     - [United Manufacturing Hub](https://www.umh.app/) - IIoT Kubernetes-hosted microservices on the edge
@@ -30,4 +41,4 @@ This is a list of software or links and a brief description of use case. It is n
     - [BalenaOS](https://www.balena.io/os) - Fleet management for embedded devices, run/manage containers at edge
     - [Flatcar](https://www.flatcar.org/) - designed for containers
     - [Talos](https://www.talos.dev/) - OS for kubenetes nodes
-
+    - RebornOS
