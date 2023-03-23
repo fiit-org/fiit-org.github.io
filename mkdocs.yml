@@ -27,11 +27,11 @@ plugins:
   - git-revision-date-localized
   - minify:
       minify_html: true
-      minify_js: true
+      minify_js: false
       minify_css: true
       htmlmin_opts:
           remove_comments: true
-      js_files:
-          - assets/js/main.js
+      #js_files:
+      #    - assets/js/main.js
       css_files:
           - assets/css/style.css
