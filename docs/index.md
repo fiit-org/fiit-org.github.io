@@ -16,17 +16,18 @@ This is a list of software or links and a brief description of use case. It is n
     - [HiveMQ](https://github.com/hivemq/hivemq-community-edition) - Java based broker
     - [EMQX](https://github.com/emqx/emqx) - Open source broker
 
-- Industrial Platforms
+- Platforms
     - [United Manufacturing Hub](https://www.umh.app/) - IIoT Kubernetes-hosted microservices on the edge
-
+    - [Libre Mfg](https://www.libremfg.com/) - closed source industrial platform
+    - [ThingsBoard](https://thingsboard.io/) - open source iot platform
+  
 - Kubernetes
     - [k3s](https://github.com/k3s-io/k3s) - Lightweight kubernetes
     - [k3d](https://github.com/k3d-io/k3d) - K3s in Docker
-    - [k3os](https://github.com/rancher/k3os) - OS for running k3s
     - [RKE2](https://github.com/rancher/rke2) - Kubernetes running in containers
 
 - Linux Distros
     - [BalenaOS](https://www.balena.io/os) - Fleet management for embedded devices, run/manage containers at edge
     - [Flatcar](https://www.flatcar.org/) - designed for containers
+    - [Talos](https://www.talos.dev/) - OS for kubenetes nodes
 
-# Extra lines for new commit
