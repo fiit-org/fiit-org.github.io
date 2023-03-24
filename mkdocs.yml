@@ -1,30 +1,44 @@
 site_name: FIIT Org
 site_description: Making Cents
 
+repo_url: https://github.com/fiit-org/fiit-org.github.io
+repo_name: fiit-org/fiit-org.github.io
+
 nav:
   - Home: index.md
+  - Software:
+      - software/index.md
+      - Applications:
+        - Analytics: software/analytics.md
+        - DataOps: software/dataops.md
+        - Platforms: software/platforms.md
+      - Environments: 
+        - Containers: software/containers.md
+        - OS: software/os.md
 
 theme:
   name: material
   palette:
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+      primary: orange
+      accent: deep orange    
+  icon:
+    logo: simple/iota
+    repo: fontawesome/brands/git
+  features:
+    - header.autohide
+    - navigation.indexes
+    - navigation.instant
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tracking
 
 plugins:
   - search
-  - git-revision-date-localized
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
   - minify:
       minify_html: true
       minify_js: false
@@ -35,3 +49,6 @@ plugins:
       #    - assets/js/main.js
       #css_files:
       #    - assets/css/style.css
+
+extra:
+  generator: false
