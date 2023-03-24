@@ -6,15 +6,14 @@ repo_name: fiit-org/fiit-org.github.io
 
 nav:
   - Home: index.md
-  - Software:
-      - software/index.md
-      - Applications:
-        - Analytics: software/analytics.md
-        - DataOps: software/dataops.md
-        - Platforms: software/platforms.md
-      - Environments: 
-        - Containers: software/containers.md
-        - OS: software/os.md
+  - Applications:
+    - Analytics: software/applications/analytics.md
+    - DataOps: software/applications/dataops.md
+    - Platforms: software/applications/platforms.md
+  - Environments: 
+    - Containers: software/environments/containers.md
+    - OS: 
+        - Linux: software/environments/os-linux.md
 
 theme:
   name: material
@@ -29,7 +28,6 @@ theme:
     - header.autohide
     - navigation.indexes
     - navigation.instant
-    - navigation.path
     - navigation.sections
     - navigation.tabs
     - navigation.tracking
