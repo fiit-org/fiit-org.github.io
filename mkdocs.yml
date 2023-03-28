@@ -10,6 +10,8 @@ nav:
     - Analytics: software/applications/analytics.md
     - DataOps: software/applications/dataops.md
     - Platforms: software/applications/platforms.md
+  - Databases:
+    - Tools: software/databases/db-tools.md
   - Environments: 
     - Containers: software/environments/containers.md
     - OS: 
