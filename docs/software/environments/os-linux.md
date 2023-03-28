@@ -4,7 +4,7 @@
 
 | Name | Recommended On | Description | Use Case |
 | ---- | -------------- | ----------- | -------- |
-| [ExampleOS](https://127.0.0.1/404.htm) | March 24, 2023 | This is an example distribution. | Use as a placeholder for future entries. |
+| [ExampleOS](https://fiit-org.github.io/404.html) | March 24, 2023 | This is an example distribution. | Use as a placeholder for future entries. |
 
 ## Under Investigation
 
@@ -16,7 +16,7 @@
 
 | Name | Shat On | Description | Why Avoid? |
 | ---- | ------- | ----------- | ---------- |
-| [ExampleOS](https://127.0.0.1/404.htm) | March 24, 2023 | This is an example distribution. | Because it is a place holder. |
+| [ExampleOS](https://fiit-org.github.io/404.html) | March 24, 2023 | This is an example distribution. | Because it is a place holder. |
 
 # Server/Headless
 
@@ -24,7 +24,7 @@
 
 | Name | Recommended On | Description | Use Case |
 | ---- | -------------- | ----------- | -------- |
-| [ExampleOS](https://127.0.0.1/404.htm) | March 24, 2023 | This is an example distribution. | Use as a placeholder for future entries. |
+| [ExampleOS](https://fiit-org.github.io/404.html) | March 24, 2023 | This is an example distribution. | Use as a placeholder for future entries. |
 
 ## Under Investigation
 
@@ -38,4 +38,4 @@
 
 | Name | Shat On | Description | Why Avoid? |
 | ---- | ------- | ----------- | ---------- |
-| [ExampleOS](https://127.0.0.1/404.htm) | March 24, 2023 | This is an example distribution. | Because it is a place holder. |
+| [ExampleOS](https://fiit-org.github.io/404.html) | March 24, 2023 | This is an example distribution. | Because it is a place holder. |

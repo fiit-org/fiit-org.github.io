@@ -8,16 +8,16 @@ This is a list of software or links and a brief description of use case. It is n
 
 | Name | Recommended On | Description | Use Case |
 | ---- | -------------- | ----------- | -------- |
-| [Example](https://127.0.0.1/404.htm) | March 24, 2023 | This is an example. | Use as a placeholder for future entries. |
+| [Example](https://fiit-org.github.io/404.html) | March 24, 2023 | This is an example. | Use as a placeholder for future entries. |
 
 ## Under Investigation
 
 | Name | Status | Description | Potential Use Cases |
 | ---- | ------ | ----------- | ------------------- |
-| [Example](https://127.0.0.1/404.htm) | Not Started | This is an example. | There might be future entries. |
+| [Example](https://fiit-org.github.io/404.html) | Not Started | This is an example. | There might be future entries. |
 
 ## Piece of Crap
 
 | Name | Shat On | Description | Why Avoid? |
 | ---- | ------- | ----------- | ---------- |
-| [Example](https://127.0.0.1/404.htm) | March 24, 2023 | This is an example. | Because it is a place holder. |
+| [Example](https://fiit-org.github.io/404.html) | March 24, 2023 | This is an example. | Because it is a place holder. |
