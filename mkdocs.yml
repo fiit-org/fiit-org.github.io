@@ -9,6 +9,7 @@ nav:
   - Applications:
     - Analytics: software/applications/analytics.md
     - DataOps: software/applications/dataops.md
+    - LoRaWAN: software/applications/lorawan.md
     - Platforms: software/applications/platforms.md
   - Databases:
     - Tools: software/databases/db-tools.md
